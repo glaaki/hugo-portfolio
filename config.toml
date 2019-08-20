@@ -17,15 +17,15 @@ paginate = 5
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Sean Porter"
+    subtitle = "Technologist, Problem Solver, Maker"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -33,7 +33,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Sean Porter"
+      logoText = "~/SeanPorter"
       logoHomeLink = "/"
 
     [languages.en.menu]
