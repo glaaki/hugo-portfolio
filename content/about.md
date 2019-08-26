@@ -2,6 +2,7 @@
 title = "About"
 date = "2019-08-19"
 author = "Sean"
+cover = "me.jpg"
 +++
 
 # Hello!
