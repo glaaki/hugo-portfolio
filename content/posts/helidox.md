@@ -1,7 +1,6 @@
 ---
 title: "The Keyboard Of Many Names"
 date: 2019-08-26T11:55:53-05:00
-draft: false
 cover: "helidox/helidox-finished.jpg"
 ---
 

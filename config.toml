@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Glaaki's Site"
 theme = "terminal"
 paginate = 5
+publishDir = "docs"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
