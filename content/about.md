@@ -10,7 +10,7 @@ My name is Sean Porter. I am a father, husband, and programmer. I have a general
 
 I write application, CI, and infrastructure code; sometimes I get paged when a service goes down then I fix it so it doesn't. I'm currently based in the Springfield, MO area but open to opportunities elsewhere if something should come along.
 
-On my off time I enjoy spending time with my family and the occasional round of disc golf. Ask me about my:
+In my off time I enjoy spending time with my family and the occasional round of disc golf. Ask me about my:
 
 - Keyboards
 - Woodworking
