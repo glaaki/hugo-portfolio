@@ -4,8 +4,8 @@ date: 2019-08-26T11:55:53-05:00
 cover: "helidox/helidox-finished.jpg"
 ---
 
+The CRKBD, Corne keyboard, Helidox.
 # my thoughts:
-Corne Keyboard, CRKBD, Helidox.
 
 I don't know why this thing has so many different names. I _do_ know, however, that it is definitely my current favorite board. Same layout as the Iris but without the top number row. The OLED screens on the side are gimmicky but moving the TRRS jacks & controllers away from the keys allows this to stay much thinner, even without low profile switches.
 
